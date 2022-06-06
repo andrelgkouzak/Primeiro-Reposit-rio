@@ -1,2 +1,2 @@
-# Primeiro-Reposit-rio
-Primeiro Repositório Git
+# Primeiro Repositório 🖱️
+Esse é meu primeiro repositório no GIT!
